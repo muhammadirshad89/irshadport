@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://irshadport.vercel.app/sitemap.xml
