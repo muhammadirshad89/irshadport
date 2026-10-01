@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://irshadport.vercel.app/</loc>
+    <lastmod>2026-10-01</lastmod>
+    <image:image><image:loc>https://irshadport.vercel.app/profile/irshad-portrait.jpg</image:loc></image:image>
+    <image:image><image:loc>https://irshadport.vercel.app/portfolio/latest/world-patient-safety-day.webp</image:loc></image:image>
+    <image:image><image:loc>https://irshadport.vercel.app/portfolio/latest/independence-day-invitation.webp</image:loc></image:image>
+    <image:image><image:loc>https://irshadport.vercel.app/portfolio/latest/independence-day-backdrop.webp</image:loc></image:image>
+    <image:image><image:loc>https://irshadport.vercel.app/portfolio/latest/independence-day-badge.webp</image:loc></image:image>
+    <image:image><image:loc>https://irshadport.vercel.app/portfolio/graphic-design/heart-attack-awareness.webp</image:loc></image:image>
+    <image:image><image:loc>https://irshadport.vercel.app/portfolio/graphic-design/ramadan-health-services.webp</image:loc></image:image>
+    <image:image><image:loc>https://irshadport.vercel.app/portfolio/graphic-design/free-diabetes-medical-camp.webp</image:loc></image:image>
+    <image:image><image:loc>https://irshadport.vercel.app/portfolio/graphic-design/floor-directory-signage.webp</image:loc></image:image>
+    <image:image><image:loc>https://irshadport.vercel.app/portfolio/graphic-design/second-floor-ward-panel.webp</image:loc></image:image>
+    <video:video>
+      <video:thumbnail_loc>https://irshadport.vercel.app/portfolio/video/bhy-promotional-video.webp</video:thumbnail_loc>
+      <video:title>BHY Promotional Video</video:title>
+      <video:description>Vertical promotional video for BHY Hospital, edited for social media.</video:description>
+      <video:content_loc>https://irshadport.vercel.app/portfolio/video/bhy-promotional-video.mp4</video:content_loc>
+      <video:duration>57</video:duration>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://irshadport.vercel.app/portfolio/video/14-august-reel.webp</video:thumbnail_loc>
+      <video:title>14 August Reel</video:title>
+      <video:description>Independence Day (14 August) reel edited for BHY Hospital social media.</video:description>
+      <video:content_loc>https://irshadport.vercel.app/portfolio/video/14-august-reel.mp4</video:content_loc>
+      <video:duration>190</video:duration>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://irshadport.vercel.app/portfolio/video/unicef-visit.webp</video:thumbnail_loc>
+      <video:title>UNICEF Visit at BHY Hospital</video:title>
+      <video:description>Video of a UNICEF team visit to BHY Hospital, including a review of the OPD vaccination centre, with a branded title card and on-screen captions.</video:description>
+      <video:content_loc>https://irshadport.vercel.app/portfolio/video/unicef-visit.mp4</video:content_loc>
+      <video:duration>101</video:duration>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://irshadport.vercel.app/portfolio/video/vaccination-center.webp</video:thumbnail_loc>
+      <video:title>OPD Vaccination Center Video</video:title>
+      <video:description>Short video on how the BHY Hospital OPD vaccination center works, from record keeping to vaccine preparation, with on-screen captions.</video:description>
+      <video:content_loc>https://irshadport.vercel.app/portfolio/video/vaccination-center.mp4</video:content_loc>
+      <video:duration>67</video:duration>
+    </video:video>
+  </url>
+</urlset>
